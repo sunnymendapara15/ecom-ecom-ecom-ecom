@@ -1,0 +1,24 @@
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+npm-debug.log*
+yarn-error.log
+
+# Vite
+.env
+.env.*.local
+
+# .NET
+bin/
+obj/
+*.user
+*.sln.docstates
+.vscode/
+*.log
+*.db
+*.lock.json
+
+# OS
+.DS_Store
